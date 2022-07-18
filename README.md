@@ -12,13 +12,13 @@ pip install rich bs4
 pip install --upgrade pip
 git clone https://github.com/akoeappank/kopi-hitam
 ls ( L kecil )
-cd cracking6
+cd kopi-hitam
 python mom.py
 ```
 ## Cara Update
 ```php
 $ cd
-$ cd cracking6
-$ ls ( L kecil )
+$ cd kopi-hitam
+$ ls
 $ git pull
 $ python mom.py
