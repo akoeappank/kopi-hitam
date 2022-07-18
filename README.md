@@ -1,5 +1,5 @@
 # kopi-hitam
-# Cara Updatenya bos
+# Cara Updatenya Bosku
 
 # pkg update && apt upgrade
 # pkg install python git
@@ -7,7 +7,7 @@
 # pip install requests mechanize
 # pip install rich bs4
 # pip install --upgrade pip
-# git clone https://github.com/Al-Vino/cracking6
+# git clone https://github.com/akoeappank/kopi-hitam
 # ls ( L kecil )
 # cd cracking6
 # python mom.py
